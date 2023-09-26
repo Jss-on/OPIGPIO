@@ -1,4 +1,27 @@
-dist/
-*.egg-info/
+# Compiled Python files
 __pycache__/
 *.pyc
+
+# Virtual environments
+venv/
+myenv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build and distribution directories
+build/
+dist/
+
+# Python eggs
+*.egg-info/
+*.egg
+
+# Logs and databases
+*.log
+*.db
