@@ -1,0 +1,8 @@
+README.md
+setup.py
+GPIO/__init__.py
+GPIO/opipc_gpio.py
+OPIGPIO.egg-info/PKG-INFO
+OPIGPIO.egg-info/SOURCES.txt
+OPIGPIO.egg-info/dependency_links.txt
+OPIGPIO.egg-info/top_level.txt
