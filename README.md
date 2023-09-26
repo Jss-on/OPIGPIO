@@ -11,6 +11,14 @@ OPIGPIO is a Python package designed to simplify GPIO (General Purpose Input/Out
 
 ### Installation
 
+#### Local Installation
+
+```bash
+git clone https://github.com/yourusername/OPIGPIO.git
+cd OPIGPIO
+pip install .
+```
+
 #### Installation from PyPI
 
 ```bash
